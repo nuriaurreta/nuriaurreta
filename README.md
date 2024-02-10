@@ -5,3 +5,6 @@ I hope to keep coding until I die!! 💪 <br><br>
 
 | 📖  &nbsp; [libft](https://github.com/nuriaurreta/libft)|
 |:--|
+
+| ↩️  &nbsp; [Get Next Line](https://github.com/nuriaurreta/get_next_line)|
+|:--|
