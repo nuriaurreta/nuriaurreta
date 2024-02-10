@@ -1,5 +1,5 @@
-👋 &nbsp; I'm Nuria, a graphic designer and programming student based in Bilbao, Spain. I got into this mess of development thanks to 42 Urduliz.<br>
-I hope to keep coding until I die!! 💪 <br><br>
+👋 &nbsp; I'm Nuria, a graphic designer and programming student based in Bilbao, Spain. I got into development thanks to 42 Urduliz.<br>
+And I hope to keep coding until I die!! 💪 <br><br>
 
 ## Projects created during the course 42.zip
 
