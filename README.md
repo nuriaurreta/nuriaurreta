@@ -10,12 +10,12 @@
 
 | 📖  &nbsp; [libft](https://github.com/nuriaurreta/libft)| 
 |:--|
-`Algorithms & AI` `Imperative programming`
+`C` `Algorithms & AI` `Imperative programming`
 
 | ↩️  &nbsp; [Get Next Line](https://github.com/nuriaurreta/get_next_line)|
 |:--|
-`Unix` `Algorithms & AI`
+`C` `Unix` `Algorithms & AI`
 
 | 👾  &nbsp; [So Long](https://github.com/nuriaurreta/so_long)|
 |:--|
-`Imperative programming` `Graphics`
+`C` `Imperative programming` `Graphics`
