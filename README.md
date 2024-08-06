@@ -1,12 +1,15 @@
-👋 &nbsp; I'm Nuria, a graphic designer and coding student based in Bilbao. I got into development thanks to 42 Urduliz.<br>
+👋 &nbsp; I'm Nuria, a programmer based in Bilbao. I got into development thanks to 42 Urduliz.<br>
 
-<!--<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,git,vscode,ps,ai" />
-  </a>
-</p>-->
+<p><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,javascript,nodejs,git,sqlite"/>
+  </a></p>
 
-## Some projects created during the course 42.zip
+## JavaScript projects
+| :skull_and_crossbones:  &nbsp; [Conways Game of Life](https://github.com/nuriaurreta/conways/)|
+|:--|
+`JavaScript`
+
+## Some projects created in C during the course 42.zip
 
 | 📖  &nbsp; [libft](https://github.com/nuriaurreta/libft)| 
 |:--|
