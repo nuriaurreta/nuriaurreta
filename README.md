@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hi%20there,%20I'm%20Nuria&textBg=false&fontAlign=50&animation=fadeIn&desc=👋%20%20I'm%20Nuria,%20a%20programmer%20based%20in%20Bilbao.%20I%20got%20into%20development%20thanks%20to%2042%20Urduliz.&descAlignY=56&fontAlignY=33"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there,%20I'm%20Nuria&textBg=false&fontAlign=50&animation=fadeIn&desc=👋%20%20I'm%20Nuria,%20a%20programmer%20based%20in%20Bilbao.%20I%20got%20into%20development%20thanks%20to%2042%20Urduliz.&descAlignY=56&fontAlignY=33"/>
 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
