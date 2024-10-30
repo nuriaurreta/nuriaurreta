@@ -1,14 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Nuria%20Urreta!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hi%20there,%20I'm%20Nuria&textBg=false&fontAlign=50&animation=fadeIn&desc=👋%20%20I'm%20Nuria,%20a%20programmer%20based%20in%20Bilbao.%20I%20got%20into%20development%20thanks%20to%2042%20Urduliz.&descAlignY=56&fontAlignY=33"/>
 
-👋 &nbsp; I'm Nuria, a programmer based in Bilbao. I got into development thanks to 42 Urduliz.
-***
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriaurreta&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="nuriaurreta" width=350 /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriaurreta&layout=compact&theme=tokyonight)
 
 ### Tools
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
